@@ -1,4 +1,4 @@
-# Excel: Sales & Finance Analytics
+# Excel: Sales & Finance Analytics with Insights
 ## Project Objectives :
 
 
@@ -31,7 +31,7 @@
 - **Sales:**
 
    *  Determine effective customer discount strategies.
-   *  Facilitate negotiations with consumers.
+   *  Facilitate negotiations with customers.
    *  Identify untapped business opportunities in high-potential regions.
 
 - **Finance:**
@@ -54,6 +54,11 @@
 - [x]	**Optimization:** Continuously refining reports for better performance and faster generation.
 - [x]	**Strategic Planning:** Systematically devising report-building plans for maximum efficiency and impact.
 
-## *Key Delieverables*
-- **Customer Report:** Comprehensive performance analysis for personalized decision-making.
-- **Market Performance & Sales Target Comparison:** Clear and actionable insights into market trends and sales strategies.
+## *Key Findings*
+- **[Top 10 Products based on the percentage increase in their net sales from 2020 to 2021](https://github.com/Suy27/Excel-Sales-Analytics-and-Insights/blob/main/Top%2010%20Products.pdf):** Impressive progress driven by AQ Mx NB greater than 5000%.
+- **["Division" report to present the net sales data for 2020 and 2021, along with the growth percentage](https://github.com/Suy27/Excel-Sales-Analytics-and-Insights/blob/main/Division%20Level%20Report.pdf):** The PC division experienced the most growth, at 413.7%.
+- **[Products that are ranked in the top 5 and bottom 5 in terms of quantity sold](https://github.com/Suy27/Excel-Sales-Analytics-and-Insights/blob/main/Top%205%20%26%20Bottom%205.pdf):** AQ Master wired x1 Ms ranked first among the top five, while AQ Home Allin1 Gen 2 finished last among the bottom five.
+- **[The new products that Atliq began selling in 2021](https://github.com/Suy27/Excel-Sales-Analytics-and-Insights/blob/main/New%20Products%202021.pdf):** Atliq began selling 16 goods in 2021. In which top 3 are AQ Gen Y ranks third ($19.5M), followed by AQ Trigger ($20.7M) and AQ Qwerty ($22.0M).
+- **[The top 5 countries in terms of net sales in 2021](https://github.com/Suy27/Excel-Sales-Analytics-and-Insights/blob/main/Top%205%20Countries%20by%20Net%20Sales(2021).pdf):** India ($161.3M) dominates with the largest net sales, while the United Kingdom ($34.2M) has the lowest among the top 5.
+
+**Note:** Customers here are referred to as retailers or sellers who purchase goods from AtliQ and sell products to end-user(consumers).
