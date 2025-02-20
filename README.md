@@ -1,4 +1,13 @@
-# Excel: Sales & Finance Analytics with Insights
+# Excel: AtliQ Hardware (Sales & Finance Analytics with Insights)
+### About Company
+AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
+
+ - Retailers (Croma, Amazon)
+ - Direct (Atliq E store, AtliQ Exclusive)
+ - Distributors (Neptune)
+## Project Overview :
+AtliQ Harware is infested with excel files. We have been assigned the task to get rid of these unecessary excel files. But we also know that not every excel file can be replaced. Also Mr. Bruce(Sales Director) is getting interested in data analytics. Thus giving us a perfect opportunity to onboard Mr. Bruce in analytics also applicable for other users in the company.
+
 ## Project Objectives :
 
 
